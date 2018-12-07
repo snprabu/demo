@@ -5,8 +5,7 @@ import Layout from '../components/layout'
 import Image from '../components/image'
 
 const IndexPage = () => ( 
-	<Layout >
-    <h1 > Profile < /h1>  	
+	<Layout >    
 	<div style = {
         { maxWidth: '100%', marginBottom: '1.45rem' } } >
     <Image / >

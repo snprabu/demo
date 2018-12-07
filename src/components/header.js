@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
 )
 
 Header.propTypes = {
-  siteTitle: PropTypes.string,
+  siteTitle: 'Profile',
 }
 
 Header.defaultProps = {
